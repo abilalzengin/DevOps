@@ -124,9 +124,7 @@ thousand                         Warning -> 'Invalid input: Phone number should 
         |----delete.html     # Given to the students (HTML template)
 ```
 
-## Expected Outcome
 
-![Phonebook App Search Page](./search-snapshot.png)
 
 ### At the end of the project, following topics are to be covered;
 
@@ -184,7 +182,7 @@ thousand                         Warning -> 'Invalid input: Phone number should 
 
 ## Steps to Solution
   
-- Step 1: Download or clone project definition from `clarusway` repo on Github 
+- Step 1: Download or clone project definition from `source` repo on Github 
 
 - Step 2: Create project folder for local public repo on your pc
 
